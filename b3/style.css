@@ -1,0 +1,57 @@
+
+.header {
+    height: 150px;
+    width: 90%;
+    background-color: #01b9d1;
+    color: #7b9b99;
+    position: relative;
+}
+
+.header h2 {
+    position: absolute;
+    width: 50%;
+    left: 10%;
+    top: 15%;
+}
+
+
+.listContent {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: #F2F3F5;
+
+}
+
+.outstanding, .responsive, .easyToUse {
+    background-color: white;
+    height: 80%;
+    position: relative;
+    top: -10%
+}
+
+.outstanding {
+    margin-left: 20%;
+}
+
+.responsive {
+    margin-left: 3%;
+}
+
+.easyToUse {
+    margin-left: 3%;
+}
+
+i, h3, p {
+    margin-left: 5%;
+}
+
+i {
+    margin-top: 35px;
+    font-size: 30px;
+    color: #485013;
+}
+
+p {
+    color: #828282;
+}

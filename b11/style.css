@@ -1,0 +1,23 @@
+* {
+    width: 85%;
+    margin: 3% 9%;
+}
+h2 {
+    margin-bottom: 4%;
+}
+.content {
+    width: 100%;
+    background-color: #f7f7f7;
+    margin-bottom: 2%;
+    position: relative;
+}
+
+span {
+    color: rgb(58, 83, 20);
+}
+
+i {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
